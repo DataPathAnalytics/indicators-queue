@@ -49,20 +49,20 @@
 Блок інформації про сторінку
 ============================
 
-``
-    Pagination:
+
+    ``Pagination``:
           {
-            nextPage:
- 		                {
-                      Path: string
-                      Url: string
+            ``nextPage``:
+ 		            {
+                      ``Path``: string
+                      ``Url``: string
                     }
-            previousPage:
+            ``previousPage``:
                     {
-                      Path: string
-                      Url: string
+                      ``Path``: string
+                      ``Url``: string
                     }
-            totalPages:  integer
-            totalElements:  integer
+            ``totalPages``:  integer
+            ``totalElements``:  integer
           }
-``
+
