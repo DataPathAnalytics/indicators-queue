@@ -52,28 +52,36 @@
 .. code ::  
 
 
-    ``Pagination``:
+    Pagination:
           {
-            ``nextPage``:
+            nextPage:
             
  		            {
-                      ``Path``: string
+                      Path: string
 
-                      ``Url``: string
+                      Url: string
 
                     }
 
-            ``previousPage``:
+            previousPage:
             
                     {
-                      ``Path``: string
+                      Path: string
 
-                      ``Url``: string
+                      Url: string
 
                     }
 
-            ``totalPages``:  integer
+            totalPages:  integer
 
-            ``totalElements``:  integer
+            totalElements:  integer
 
           }
+          
+Де: 
+-  ``nextPage`` - адреса наступної сторінки;
+-  ``previousPage`` - адреса попередньої сторінки;
+-  ``totalPages`` - загальна кількість сторінок;
+-  ``totalElements`` - загальна кількість процедур у черзі.
+
+
