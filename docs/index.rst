@@ -5,3 +5,5 @@
    :maxdepth: 2
    :caption: Зміст:
    
+   api-queue
+   
