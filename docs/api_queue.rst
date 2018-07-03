@@ -56,7 +56,7 @@
           {
             nextPage:
             
- 		            {
+ 		    {
                       Path: string
 
                       Url: string
