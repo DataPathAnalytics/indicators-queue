@@ -167,7 +167,7 @@
             Region:  string
             
             impactCategory:  string
-	    }
+	 }
     ]
 
 Де:
