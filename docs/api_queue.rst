@@ -52,6 +52,7 @@
     ``Pagination``:
           {
             ``nextPage``:
+            
  		            {
                       ``Path``: string
 
@@ -60,6 +61,7 @@
                     }
 
             ``previousPage``:
+            
                     {
                       ``Path``: string
 
