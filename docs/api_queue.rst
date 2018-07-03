@@ -49,7 +49,7 @@
 Блок інформації про сторінку
 ============================
 
-.. ::
+``
     Pagination:
           {
             nextPage:
@@ -65,4 +65,4 @@
             totalPages:  integer
             totalElements:  integer
           }
-
+``
