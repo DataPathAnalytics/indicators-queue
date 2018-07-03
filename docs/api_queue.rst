@@ -100,7 +100,7 @@
 
     queueInfo:
     
- 	        {
+ 	    {
                 queueId:  integer
                 
                 impactCategory:  string
@@ -123,7 +123,7 @@
             
             tenderScoreImportanceCoefficient:  number (double)
             
-	        dateCreated:  string (date-time)
+	    dateCreated:  string (date-time)
     }
 
 
