@@ -89,4 +89,105 @@
 -  ``totalElements`` - загальна кількість процедур у черзі.
 
 
+Блок інформації про чергу.
+==========================
+
+.. code ::  
+
+    queueInfo:
+    
+ 	        {
+                queueId:  integer
+                
+                impactCategory:  string
+            }
+            
+            tenderScoreRange:
+            
+                            {
+                                Max: number
+                                
+                                Min:  number (double)
+                                
+                             }
+                             
+            numberOfTopRiskedTenders:  integer
+             
+            topRiskPercentage:  number (double)
+            
+            expectedValueImportanceCoefficient:  number (double)
+            
+            tenderScoreImportanceCoefficient:  number (double)
+            
+	        dateCreated:  string (date-time)
+    }
+
+
+Де:
+
+-  ``queueId`` - автоматично згенерований номер перерахунку черги;
+
+-  ``impactCategory`` - категорія ризиковості процедур черги;
+
+-  ``tenderScoreRange`` - порогові значення сили ризику процедур в даній категорії;
+
+-  ``numberOfTopRiskedTenders`` - кількість процедур, що маркуються надризиковими через великий параметр матеріальності їх  замовника;
+
+-  ``topRiskPercentage`` - відсоток процедур, що будуть маркуватися як надризикові;
+
+-  ``expectedValueImportanceCoefficient`` - значення коефіцієнту при очікуваній вартості процедури для визначення критерію матеріальності;
+
+-  ``tenderScoreImportanceCoefficient`` - значення коефіцієнту при силі ризику процедури для визначення критерію матеріальності;
+
+-  ``dateCreated`` - дата створення даного перерахунку черги.
+
+
+Блок інформації про процедуру.
+==============================
+
+.. code ::
+
+    data:
+    [
+        {   
+            tenderOuterId:  string
+            
+            tenderId:  string
+            
+            expectedValue:  number (double)
+            
+            materialityScore:   number (double)
+            
+            tenderScore:  number (double)
+            
+            procuringEntityId:  integer (int64)
+            
+            topRisk: boolean
+            
+            Region:  string
+            
+            impactCategory:  string
+	    }
+    ]
+
+Де:
+
+-  ``tenderOuterId`` - ідентифікатор процедури з АРІ Прозорро;
+
+-  ``tenderId`` - ідентифікатор процедури, що є зручним для людини;
+
+-  ``expectedValue`` - очікувана вартість процедури;
+
+-  ``materialityScore`` - параметр матеріальності процедури;
+
+-  ``tenderScore`` - сила ризику процедури;
+
+-  ``procuringEntityId`` - ідентифікатор замовника процедури;
+
+-  ``topRisk`` - логічна змінна, що позначає, чи треба маркувати процедуру як надризикову;
+
+`  ``Region`` - регіон проведення процедури;
+
+-  ``impactCategory`` - категорія ризиковості процедур, до якої відноситься дана процедура.
+
 
