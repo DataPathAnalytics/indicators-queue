@@ -7,3 +7,4 @@
    
    description_queue
    api_queue
+   procedure_history.rst
