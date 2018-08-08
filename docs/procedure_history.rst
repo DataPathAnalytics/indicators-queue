@@ -31,33 +31,34 @@
 Документ має наступний вигляд.
 
 .. code ::
-   {
-   "data" : [ {
-     "indicatorsInfo" : [ {
-        "indicatorImpactType" : "high",
-        "indicatorId" : "indicatorId",
-        "indicatorName" : "indicatorName",
-        "indicatorRisk" : "Недобросовісна конкуренція серед учасників",
-        "indicatorStage" : "tendering",
-        "indicatorTenderLotType" : "tender"
-      }, {
-        "indicatorImpactType" : "high",
-        "indicatorId" : "indicatorId",
-        "indicatorName" : "indicatorName",
-        "indicatorRisk" : "Недобросовісна конкуренція серед учасників",
-       "indicatorStage" : "tendering",
-       "indicatorTenderLotType" : "tender"
-      } ],
-      "indicatorsSummary" : {
-        "tenderScore" : 7.3862819483858839220147274318151175975799560546875,
-        "numberOfFailedIndicators" : 4,
-       "numberofElegibleIndicators" : 3,
-       "numberofIndicatorsWithRisk" : 2
-      },
-     "id" : "id",
+
+    {
+    "data" : [ {
+      "indicatorsInfo" : [ {
+         "indicatorImpactType" : "high",
+         "indicatorId" : "indicatorId",
+         "indicatorName" : "indicatorName",
+         "indicatorRisk" : "Недобросовісна конкуренція серед учасників",
+         "indicatorStage" : "tendering",
+         "indicatorTenderLotType" : "tender"
+       }, {
+         "indicatorImpactType" : "high",
+         "indicatorId" : "indicatorId",
+         "indicatorName" : "indicatorName",
+         "indicatorRisk" : "Недобросовісна конкуренція серед учасників",
+         "indicatorStage" : "tendering",
+         "indicatorTenderLotType" : "tender"
+       } ],
+       "indicatorsSummary" : {
+         "tenderScore" : 7.3862819483858839220147274318151175975799560546875,
+         "numberOfFailedIndicators" : 4,
+         "numberofElegibleIndicators" : 3,
+         "numberofIndicatorsWithRisk" : 2
+       },
+      "id" : "id",
       "tenderId" : "tenderId",
       "indicators" : {
-       "tenderIndicators" : [ {
+         "tenderIndicators" : [ {
          "indicatorId" : "indicatorId",
          "indicatorImpact" : 6.02745618307040320615897144307382404804229736328125,
          "history" : [ {
@@ -118,100 +119,7 @@
           "value" : 5
        } ]
      }
-   }, {
-    "indicatorsInfo" : [ {
-      "indicatorImpactType" : "high",
-      "indicatorId" : "indicatorId",
-      "indicatorName" : "indicatorName",
-      "indicatorRisk" : "Недобросовісна конкуренція серед учасників",
-      "indicatorStage" : "tendering",
-      "indicatorTenderLotType" : "tender"
-    }, {
-      "indicatorImpactType" : "high",
-      "indicatorId" : "indicatorId",
-      "indicatorName" : "indicatorName",
-      "indicatorRisk" : "Недобросовісна конкуренція серед учасників",
-      "indicatorStage" : "tendering",
-      "indicatorTenderLotType" : "tender"
-    } ],
-    "indicatorsSummary" : {
-      "tenderScore" : 7.3862819483858839220147274318151175975799560546875,
-      "numberOfFailedIndicators" : 4,
-      "numberofElegibleIndicators" : 3,
-      "numberofIndicatorsWithRisk" : 2
-    },
-    "id" : "id",
-    "tenderId" : "tenderId",
-    "indicators" : {
-      "tenderIndicators" : [ {
-        "indicatorId" : "indicatorId",
-        "indicatorImpact" : 6.02745618307040320615897144307382404804229736328125,
-        "history" : [ {
-          "date" : "2000-01-23T04:56:07.000+00:00",
-          "indicatorImpact" : 5.962133916683182377482808078639209270477294921875,
-          "value" : 1
-        }, {
-          "date" : "2000-01-23T04:56:07.000+00:00",
-          "indicatorImpact" : 5.962133916683182377482808078639209270477294921875,
-          "value" : 1
-        } ],
-        "value" : 0
-      }, {
-        "indicatorId" : "indicatorId",
-        "indicatorImpact" : 6.02745618307040320615897144307382404804229736328125,
-        "history" : [ {
-          "date" : "2000-01-23T04:56:07.000+00:00",
-          "indicatorImpact" : 5.962133916683182377482808078639209270477294921875,
-          "value" : 1
-        }, {
-          "date" : "2000-01-23T04:56:07.000+00:00",
-          "indicatorImpact" : 5.962133916683182377482808078639209270477294921875,
-          "value" : 1
-        } ],
-        "value" : 0
-      } ],
-      "lotIndicators" : [ {
-        "lots" : [ "lots", "lots" ],
-        "indicatorId" : "indicatorId",
-        "indicatorImpact" : 2.3021358869347654518833223846741020679473876953125,
-        "history" : [ {
-          "date" : "2000-01-23T04:56:07.000+00:00",
-          "indicatorImpact" : 9.301444243932575517419536481611430644989013671875,
-          "lotId" : "lotId",
-          "value" : 7
-        }, {
-          "date" : "2000-01-23T04:56:07.000+00:00",
-          "indicatorImpact" : 9.301444243932575517419536481611430644989013671875,
-          "lotId" : "lotId",
-          "value" : 7
-        } ],
-        "value" : 5
-      }, {
-        "lots" : [ "lots", "lots" ],
-        "indicatorId" : "indicatorId",
-        "indicatorImpact" : 2.3021358869347654518833223846741020679473876953125,
-        "history" : [ {
-          "date" : "2000-01-23T04:56:07.000+00:00",
-          "indicatorImpact" : 9.301444243932575517419536481611430644989013671875,
-          "lotId" : "lotId",
-          "value" : 7
-        }, {
-          "date" : "2000-01-23T04:56:07.000+00:00",
-          "indicatorImpact" : 9.301444243932575517419536481611430644989013671875,
-          "lotId" : "lotId",
-          "value" : 7
-        } ],
-        "value" : 5
-       } ]
-      }
-    } ],
-   "nextPage" : {
-      "path" : "path",
-     "endDate" : "2000-01-23T04:56:07.000+00:00",
-     "url" : "url",
-     "startDate" : "2000-01-23T04:56:07.000+00:00"
-    }
-  }
+    }, 
 
 Опис полів верхнього рівня.
 ===========================
