@@ -91,7 +91,7 @@
                 "status": string,
             } ],
         } ],
-        "indicatorsSummary": [ {
+        "indicatorsSummary": {
             "numberOfEligibleIndicators": float,
             "numberOfIndicatorsWithRisk": float,
             "numberOfFailedIndicators": float,
@@ -100,7 +100,7 @@
                 "lotID": string,
                 "score": float,
             } ],
-        } ],
+        },
         "indicatorsInfo": [ {
             "indicatorId": string,
             "indicatorCode": string,
