@@ -39,7 +39,7 @@
 
 `Доступ до черги процедур з високим ступенем ризику. <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/high?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2>`_
 
-`Доступ до загальної черги процедур. <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2>>`_
+`Доступ до загальної черги процедур. <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2>`_
 
 
 ****************************
@@ -57,7 +57,7 @@
 
 `Миколаївська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Чернігівська область http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B3%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Чернігівська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B3%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
 `Харківська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
