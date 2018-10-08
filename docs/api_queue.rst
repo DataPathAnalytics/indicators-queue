@@ -39,7 +39,7 @@
 
 `Доступ до черги процедур з високим ступенем ризику. <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/high?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2>`_
 
-`Доступ до загальної черги процедур. <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2>`_
+`Доступ до загальної черги процедур. <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2>`_
 
 
 ****************************
@@ -47,55 +47,55 @@
 ****************************
 Для того, щоб дістатися до черги визначеного регіону, потрібно у запиті у поле "регіон" вставити одне з нижчеперерахованих значень.
 
-`Запорізька область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Запорізька область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`M. Київ. <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2>`_
+`M. Київ. <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2>`_
 
-`Черкаська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Черкаська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Івано-Франківська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%86%D0%B2%D0%B0%D0%BD%D0%BE-%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Івано-Франківська область <95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%86%D0%B2%D0%B0%D0%BD%D0%BE-%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Миколаївська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Миколаївська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Чернігівська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B3%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Чернігівська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B3%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Харківська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Харківська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Житомирська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Житомирська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Вінницька область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Вінницька область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Полтавська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Полтавська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Волинська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%92%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Волинська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%92%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Львівська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Львівська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Дніпропетровська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Дніпропетровська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Хмельницька область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Хмельницька область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Одеська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9E%D0%B4%D0%B5%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Одеська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9E%D0%B4%D0%B5%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Київська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Київська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Херсонська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Херсонська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Рівненська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A0%D1%96%D0%B2%D0%BD%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Рівненська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A0%D1%96%D0%B2%D0%BD%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Закарпатська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Закарпатська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Донецька область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Донецька область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Чернівецька область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Чернівецька область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Луганська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Луганська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Сумська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A1%D1%83%D0%BC%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Сумська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A1%D1%83%D0%BC%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Кіровоградська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9A%D1%96%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Кіровоградська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%9A%D1%96%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
-`Тернопільська область <http://195.201.111.52:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
+`Тернопільська область <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/?limit=100&page=0&region=%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C>`_
 
 
 ******************************************
