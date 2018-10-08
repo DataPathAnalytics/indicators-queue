@@ -33,13 +33,13 @@
 Запити на отримання черги
 *************************
 
-``http://95.216.36.61:8026/api/v0.1/region-indicators-queue/low?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2`` -  доступ до черги процедур з низьким ступенем ризику.
+`Доступ до черги процедур з низьким ступенем ризику. <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/low?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2>`_
 
-``http://95.216.36.61:8026/api/v0.1/region-indicators-queue/medium?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2`` - доступ до черги процедур з середнім ступенем ризику.
+`Доступ до черги процедур з середнім ступенем ризику. <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/medium?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2>`_ 
 
-``http://95.216.36.61:8026/api/v0.1/region-indicators-queue/high?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2`` - доступ до черги процедур з високим ступенем ризику.
+`Доступ до черги процедур з високим ступенем ризику. <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/high?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2>`_
 
-``http://95.216.36.61:8026/api/v0.1/region-indicators-queue/low?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2`` - доступ до загальної черги процедур.
+`Доступ до загальної черги процедур. <http://95.216.36.61:8026/api/v0.1/region-indicators-queue/low?limit=100&page=0&region=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2>`_
 
 
 ****************************
